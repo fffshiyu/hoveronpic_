@@ -1,0 +1,17 @@
+{
+  "name": "hover-on-pic",
+  "version": "1.0.0",
+  "description": "3D ripple effect on image hover using Three.js",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": ["threejs", "3d", "ripple", "interactive"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
